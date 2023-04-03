@@ -1,5 +1,7 @@
 # SOLIDER on [Pedestrian Detection]
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/beyond-appearance-a-semantic-controllable/pedestrian-detection-on-citypersons)](https://paperswithcode.com/sota/pedestrian-detection-on-citypersons?p=beyond-appearance-a-semantic-controllable)
+
 This repo provides details about how to use [SOLIDER](https://github.com/tinyvision/SOLIDER) pretrained representation on pedestrian detection task.
 We modify the code from [Pedestron](https://github.com/hasanirtiza/Pedestron), and you can refer to the original repo for more details.
 
